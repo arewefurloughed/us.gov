@@ -1,0 +1,18 @@
+{
+    "Id": 848,
+    "Title": "Federal Government Operating Status in the Washington, DC, Area",
+    "Location": "Washington, DC Area",
+    "StatusSummary": "Due to a lapse in appropriations, Federal Government operations vary by agency.",
+    "StatusWebPage": "https://www.opm.gov/policy-data-oversight/snow-dismissal-procedures/current-status/",
+    "ShortStatusMessage": "Employees should refer to their home agency for guidance on reporting for duty.",
+    "LongStatusMessage": "Employees should refer to their home agency for guidance on reporting for duty.\r\nEmployees should refer to their home agency for guidance on reporting for duty. ",
+    "ExtendedInformation": "Employees should refer to their home agency for guidance on reporting for duty. ",
+    "DateStatusPosted": "\/Date(1545800400000)\/",
+    "CurrentDate": "\/Date(1695440906227)\/",
+    "DateStatusComplete": "\/Date(1547430000000)\/",
+    "AppliesTo": "All Federal Government, until further notice",
+    "Icon": "Alert",
+    "StatusType": "Custom Status Message",
+    "StatusTypeGuid": "30b9681e-252d-4a9a-9247-4ea209bd1f55",
+    "Url": "https://www.opm.gov/policy-data-oversight/snow-dismissal-procedures/status-archives/18/12/26/Due-to-a-lapse-in-appropriations-Federal-Government-operations-vary-by-agency_848/"
+}
