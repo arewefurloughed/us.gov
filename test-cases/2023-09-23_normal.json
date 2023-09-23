@@ -1,0 +1,18 @@
+{
+    "Id": 0,
+    "Title": "Federal Government Operating Status in the Washington, DC, Area",
+    "Location": "Washington, DC area",
+    "StatusSummary": "Open",
+    "StatusWebPage": "https://www.opm.gov/policy-data-oversight/snow-dismissal-procedures/current-status/",
+    "ShortStatusMessage": "Federal agencies in the Washington, DC area are Open.",
+    "LongStatusMessage": "Federal agencies in the Washington, DC area are Open.\r\n Employees are expected to begin the workday on time.  Normal operating procedures are in effect.",
+    "ExtendedInformation": " Employees are expected to begin the workday on time.  Normal operating procedures are in effect.",
+    "DateStatusPosted": "\/Date(1695441870183)\/",
+    "CurrentDate": "\/Date(1695442023664)\/",
+    "DateStatusComplete": null,
+    "AppliesTo": "September 23, 2023",
+    "Icon": "Open",
+    "StatusType": "Open",
+    "StatusTypeGuid": "e3e3d34b-05ae-451a-b13a-93a1ac92dfe4",
+    "Url": "https://www.opm.gov/policy-data-oversight/snow-dismissal-procedures/current-status/"
+}
